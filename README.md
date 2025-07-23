@@ -1,4 +1,4 @@
-# KiCad 7/8 Minibadge Template
+# KiCad 7/8/9(?) Minibadge Template
 
 ## How to import and use template
 * Open KiCad
@@ -15,3 +15,5 @@
 * ![image](https://github.com/user-attachments/assets/ff9301dd-f89c-4c74-ac33-b4ed6d4642ae)
 * Click **OK**
 * Name your Minibadge project and select a location
+
+Adapted from the Minibadge framework found here https://github.com/lukejenkins/minibadge
